@@ -11,3 +11,5 @@
 -   Run composer install
 -   Run php artisan serve
 -   Access the app in http://localhost:8000
+
+![Alt text](screenshots/Welcome.png?raw=true "Welcome Page")
