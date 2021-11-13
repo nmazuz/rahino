@@ -1,0 +1,17 @@
+
+.wrapper{
+  display: grid;
+  grid-template-columns: .6fr;
+  grid-row-gap: 1em;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+body {
+    font-family: 'Nunito';
+    position: relative;
+    background: url('https://images.unsplash.com/photo-1506784983877-45594efa4cbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=2992&q=80');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+} 

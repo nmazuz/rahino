@@ -1,0 +1,27 @@
+
+.formContainer{
+  background: #34495e;
+  padding: 30px;
+  color: blue;
+  display: grid;
+  justify-content: center;
+}
+
+.formContainer input{
+  margin-right: 6px;
+  width: 300px !important;
+  margin-top: 20px;
+}
+
+.formContainer button{
+  width: 80px;
+}
+
+.submit-button
+{
+  margin-top: 10px;
+  width: 100%!important;
+}
+
+
+
